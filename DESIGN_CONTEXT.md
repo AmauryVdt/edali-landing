@@ -4,9 +4,9 @@
 
 ---
 
-## 🎯 Produit : EDL Pro
+## 🎯 Produit : EDALI
 
-**Pitch** : EDL Pro est un SaaS français d'**États Des Lieux** (inspections immobilières) pour professionnels de l'immobilier (agences, gestionnaires, administrateurs de biens).
+**Pitch** : EDALI est un SaaS français d'**États Des Lieux** (inspections immobilières) pour professionnels de l'immobilier (agences, gestionnaires, administrateurs de biens).
 
 **Valeur clé** : Dictée vocale → transcription Whisper → structuration IA (Claude) → PDF professionnel signé. Passage de **3h à 30min** par EDL.
 

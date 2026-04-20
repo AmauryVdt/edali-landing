@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* ─── Theme (same tokens as EDL Pro app) ────────────────────────────────── */
+/* ─── Theme (same tokens as EDALI app) ─────────────────────────────────── */
 @theme {
   /* Navy palette — dark base */
   --color-navy: #0F172A;
