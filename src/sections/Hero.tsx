@@ -80,7 +80,7 @@ export default function Hero() {
               <span aria-hidden className="h-1 w-1 rounded-full bg-slate-300" />
               <span>
                 Sans CB ·{' '}
-                <strong className="font-semibold text-navy">5 EDL</strong> offerts
+                <strong className="font-semibold text-navy">2 EDL</strong> offerts
               </span>
             </div>
           </motion.div>
@@ -198,7 +198,7 @@ function HeroMockup() {
         className="absolute -top-5 -right-3 flex items-center gap-2 rounded-xl bg-navy px-4 py-2.5 text-white shadow-float sm:-right-6"
       >
         <Sparkles className="h-4 w-4 text-accent-400" />
-        <span className="text-sm font-medium">IA a structuré 12 pièces</span>
+        <span className="text-sm font-medium">EDALI a structuré 12 pièces</span>
       </motion.div>
     </div>
   )
