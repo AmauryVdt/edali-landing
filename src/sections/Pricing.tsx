@@ -124,8 +124,8 @@ export default function Pricing() {
           <Info className="h-4 w-4 shrink-0 text-slate-400" />
           <span>
             EDL supplémentaires disponibles à partir de{' '}
-            <strong className="font-semibold text-navy">2€</strong> — pas besoin
-            de changer de plan.
+            <strong className="font-semibold text-navy">4,99€</strong> — pas
+            besoin de changer de plan.
           </span>
         </motion.p>
       </div>
